@@ -7,6 +7,7 @@ public:
     string name = "ANSH";
     int num = 2;
     int age = 19;
+    int rollNo = 12;
 
     void display()
     {
