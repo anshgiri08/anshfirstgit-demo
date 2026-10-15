@@ -14,6 +14,7 @@ public:
         cout << "Name: " << name << endl;
         cout << "Number: " << num << endl;
         cout << "Age: " << age << endl;
+        cout << "Roll No: " << rollNo << endl;
     }
 };
 int main()
