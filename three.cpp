@@ -8,5 +8,5 @@ int main()
         cout << i*5 << endl;
     }
 
-    return 0;
+    return 0; 
 }
