@@ -7,12 +7,14 @@ public:
     string name = "ANSH";
     int num = 2;
     int age = 19;
+    int rollNo = 12;
 
     void display()
     {
         cout << "Name: " << name << endl;
         cout << "Number: " << num << endl;
         cout << "Age: " << age << endl;
+        cout << "Roll No: " << rollNo << endl;
     }
 };
 int main()
