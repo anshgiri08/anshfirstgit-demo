@@ -14,7 +14,7 @@ public:
         name = n;
         age = a;
     }
-
+    
     void display()
     {
         cout << "Name: " << name << endl;
