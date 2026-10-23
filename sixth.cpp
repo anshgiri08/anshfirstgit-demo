@@ -23,7 +23,7 @@ public:
 
 int main() {
     Derived d;
-    d.display(); // Calls Base class function
-    d.show();    // Calls Derived class function
+    d.display(); 
+    d.show();   
     return 0;
 }
