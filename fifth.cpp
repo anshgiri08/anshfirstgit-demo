@@ -17,7 +17,7 @@ public:
         cout << "Roll Number: " << rollNo << endl;
         cout << "Name: " << name << endl;
     }
-};
+}; 
 
 int main()
 {
